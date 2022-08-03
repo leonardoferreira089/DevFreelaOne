@@ -1,5 +1,6 @@
 ﻿using DevFreelaOne.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Options;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,16 +11,22 @@ namespace DevFreelaOne.Controllers
     [Route("api/projects")]
     public class ProjectsController : ControllerBase
     {
+        private readonly OpeningTimeOption _option;
+        public ProjectsController(IOptions<OpeningTimeOption> option, ExampleClass exampleClass)
+        {
+            exampleClass.Name = "Qualquer valor escrtito";
+            _option = option.Value;
+        }
 
         // api/projects?query=net core
-        [HttpGet("{id}")]
+        [HttpGet]
         public IActionResult GetAll(string query)
         {
             return Ok();
         }
 
         //api/projects/3
-        [HttpGet]
+        [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
             //not Found
