@@ -200,9 +200,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuário\\source\\repos\\DevFreelaOne\\DevFreelaOne\\DevFreelaOne.csproj",
-      "projectName": "DevFreelaOne",
-      "projectPath": "C:\\Users\\Usuário\\source\\repos\\DevFreelaOne\\DevFreelaOne\\DevFreelaOne.csproj",
+      "projectUniqueName": "C:\\Users\\Usuário\\source\\repos\\DevFreelaOne\\DevFreelaOne\\DevFreelaOne.API.csproj",
+      "projectName": "DevFreelaOne.API",
+      "projectPath": "C:\\Users\\Usuário\\source\\repos\\DevFreelaOne\\DevFreelaOne\\DevFreelaOne.API.csproj",
       "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Usuário\\source\\repos\\DevFreelaOne\\DevFreelaOne\\obj\\",
       "projectStyle": "PackageReference",
