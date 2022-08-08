@@ -1,0 +1,12 @@
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreela.Core\bin\Debug\net5.0\DevFreelaOne.Core.deps.json
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreela.Core\bin\Debug\net5.0\DevFreelaOne.Core.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreela.Core\bin\Debug\net5.0\ref\DevFreelaOne.Core.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreela.Core\bin\Debug\net5.0\DevFreelaOne.Core.pdb
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreela.Core\obj\Debug\net5.0\DevFreelaOne.Core.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreela.Core\obj\Debug\net5.0\DevFreelaOne.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreela.Core\obj\Debug\net5.0\DevFreelaOne.Core.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreela.Core\obj\Debug\net5.0\DevFreelaOne.Core.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreela.Core\obj\Debug\net5.0\DevFreelaOne.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreela.Core\obj\Debug\net5.0\DevFreelaOne.Core.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreela.Core\obj\Debug\net5.0\ref\DevFreelaOne.Core.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreela.Core\obj\Debug\net5.0\DevFreelaOne.Core.pdb

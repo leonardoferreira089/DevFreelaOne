@@ -26,3 +26,4 @@ C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\obj\Debug\net5.0\DevFre
 C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\obj\Debug\net5.0\ref\DevFreelaOne.API.dll
 C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\obj\Debug\net5.0\DevFreelaOne.API.pdb
 C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\obj\Debug\net5.0\DevFreelaOne.API.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\obj\Debug\net5.0\DevFreelaOne.API.csproj.AssemblyReference.cache
