@@ -14,7 +14,7 @@ namespace DevFreelaOne.Controllers
         private readonly OpeningTimeOption _option;
         public ProjectsController(IOptions<OpeningTimeOption> option, ExampleClass exampleClass)
         {
-            exampleClass.Name = "Qualquer valor escrtito";
+            exampleClass.Name = "Qualquer valor escrito";
             _option = option.Value;
         }
 
