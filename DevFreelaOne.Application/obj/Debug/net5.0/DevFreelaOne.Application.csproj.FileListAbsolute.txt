@@ -1,0 +1,17 @@
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\bin\Debug\net5.0\DevFreelaOne.Application.deps.json
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\bin\Debug\net5.0\DevFreelaOne.Application.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\bin\Debug\net5.0\ref\DevFreelaOne.Application.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\bin\Debug\net5.0\DevFreelaOne.Application.pdb
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\bin\Debug\net5.0\DevFreelaOne.Core.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\bin\Debug\net5.0\DevFreelaOne.Infrastructure.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\bin\Debug\net5.0\DevFreelaOne.Infrastructure.pdb
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\bin\Debug\net5.0\DevFreelaOne.Core.pdb
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\obj\Debug\net5.0\DevFreelaOne.Application.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\obj\Debug\net5.0\DevFreelaOne.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\obj\Debug\net5.0\DevFreelaOne.Application.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\obj\Debug\net5.0\DevFreelaOne.Application.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\obj\Debug\net5.0\DevFreelaOne.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\obj\Debug\net5.0\DevFreelaOne.Application.csproj.CopyComplete
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\obj\Debug\net5.0\DevFreelaOne.Application.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\obj\Debug\net5.0\ref\DevFreelaOne.Application.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Application\obj\Debug\net5.0\DevFreelaOne.Application.pdb
