@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Infrastructure\bin\Debug\net5.0\DevFreelaOne.Infrastructure.deps.json
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Infrastructure\bin\Debug\net5.0\DevFreelaOne.Infrastructure.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Infrastructure\bin\Debug\net5.0\ref\DevFreelaOne.Infrastructure.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Infrastructure\bin\Debug\net5.0\DevFreelaOne.Infrastructure.pdb
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Infrastructure\bin\Debug\net5.0\DevFreelaOne.Core.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Infrastructure\bin\Debug\net5.0\DevFreelaOne.Core.pdb
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Infrastructure\obj\Debug\net5.0\DevFreelaOne.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Infrastructure\obj\Debug\net5.0\DevFreelaOne.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Infrastructure\obj\Debug\net5.0\DevFreelaOne.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Infrastructure\obj\Debug\net5.0\DevFreelaOne.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Infrastructure\obj\Debug\net5.0\DevFreelaOne.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Infrastructure\obj\Debug\net5.0\DevFreelaOne.Infrastructure.csproj.CopyComplete
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Infrastructure\obj\Debug\net5.0\DevFreelaOne.Infrastructure.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Infrastructure\obj\Debug\net5.0\ref\DevFreelaOne.Infrastructure.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne.Infrastructure\obj\Debug\net5.0\DevFreelaOne.Infrastructure.pdb
