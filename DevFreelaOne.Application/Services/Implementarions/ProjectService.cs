@@ -3,11 +3,8 @@ using DevFreelaOne.Application.Services.Interfaces;
 using DevFreelaOne.Application.ViewModels;
 using DevFreelaOne.Core.Entities;
 using DevFreelaOne.Infrastructure.Persistence;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DevFreelaOne.Application.Services.Implementarions
 {
@@ -19,14 +16,14 @@ namespace DevFreelaOne.Application.Services.Implementarions
             _context = context;
         }
 
-        public void CreateComment(CreateCommentInputViewModel inputModel)
+        public void CreateComment(CreateCommentInputModel inputModel)
         {
             var comment = new ProjectComment(inputModel.Content, inputModel.IdProject, inputModel.IdUser);
 
             _context.Comments.Add(comment);
         }
 
-        public int CreateProject(CreateProjectInputViewModel inputModel)
+        public int CreateProject(CreateProjectInputModel inputModel)
         {
             var project = new Project(inputModel.Title, inputModel.Description, inputModel.IdClient, inputModel.IdFreelance, inputModel.TotalCost);
             _context.Add(project);
@@ -46,7 +43,7 @@ namespace DevFreelaOne.Application.Services.Implementarions
             project.Finish();
         }
 
-        public List<ProjectsViewModel> GetAllProjects()
+        public List<ProjectsViewModel> GetAllProjects(string query)
         {
             var projects = _context.Projects;
             var projectsVM = projects.Select(p => new ProjectsViewModel(p.Id, p.Title, p.CreatedAt)).ToList();
@@ -68,7 +65,7 @@ namespace DevFreelaOne.Application.Services.Implementarions
             project.Start();
         }
 
-        public void UpdateProject(UpdateProjectInputViewModel inputModel)
+        public void UpdateProject(UpdateProjectInputModel inputModel)
         {
             var project = _context.Projects.SingleOrDefault(p => p.Id == inputModel.Id);
         }

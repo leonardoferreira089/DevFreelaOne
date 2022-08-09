@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DevFreelaOne.Application.InputViewModels
 {
-    public class CreateCommentInputViewModel
+    public class CreateCommentInputModel
     {
         public string Content { get; set; }
         public int IdProject { get; set; }

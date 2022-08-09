@@ -14,7 +14,7 @@ namespace DevFreelaOne.Application.Services.Implementarions
             _context = context;
         }
 
-        public List<SkillsViewModel> Skills()
+        public List<SkillsViewModel> GetSkills()
         {
             var skill = _context.Skills;
             var skillVm = skill.Select(s => new SkillsViewModel(s.Id, s.Description)).ToList();

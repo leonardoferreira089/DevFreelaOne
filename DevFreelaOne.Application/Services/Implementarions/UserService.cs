@@ -3,11 +3,7 @@ using DevFreelaOne.Application.Services.Interfaces;
 using DevFreelaOne.Application.ViewModels;
 using DevFreelaOne.Core.Entities;
 using DevFreelaOne.Infrastructure.Persistence;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DevFreelaOne.Application.Services.Implementarions
 {

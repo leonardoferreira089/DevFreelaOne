@@ -1,4 +1,6 @@
-﻿using DevFreelaOne.Models;
+﻿using DevFreelaOne.Application.InputViewModels;
+using DevFreelaOne.Application.Services.Interfaces;
+using DevFreelaOne.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -10,23 +12,36 @@ namespace DevFreelaOne.Controllers
     [Route("api/users")]
     public class UsersController : ControllerBase
     {
-        public UsersController(ExampleClass exampleClass)
+        private readonly IUserService _service;
+        public UsersController(IUserService service)
         {
-
+            _service = service;
         }
 
         //api/users/1
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
-        {            
-            return Ok();
+        {
+            var user = _service.GetUserById(id);
+            if(user == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(user);
         }
 
         //api/users
         [HttpPost]
-        public IActionResult Post([FromBody]CreateUserModel createUser)
+        public IActionResult Post([FromBody]CreateUserInputModel inputModel)
         {
-            return CreatedAtAction(nameof(GetById), new { Id = 1 }, createUser);
+            if(inputModel == null)
+            {
+                return BadRequest();
+            }
+            var id = _service.CreateUser(inputModel);
+
+            return CreatedAtAction(nameof(GetById), new { Id = id }, inputModel);
         }
 
         //api/users/1/login

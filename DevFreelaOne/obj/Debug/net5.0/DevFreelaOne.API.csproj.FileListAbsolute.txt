@@ -27,3 +27,13 @@ C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\obj\Debug\net5.0\ref\De
 C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\obj\Debug\net5.0\DevFreelaOne.API.pdb
 C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\obj\Debug\net5.0\DevFreelaOne.API.genruntimeconfig.cache
 C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\obj\Debug\net5.0\DevFreelaOne.API.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\bin\Debug\net5.0\DevFreelaOne.Application.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\bin\Debug\net5.0\DevFreelaOne.Core.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\bin\Debug\net5.0\DevFreelaOne.Infrastructure.dll
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\bin\Debug\net5.0\DevFreelaOne.Application.pdb
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\bin\Debug\net5.0\DevFreelaOne.Infrastructure.pdb
+C:\Users\Usuário\source\repos\DevFreelaOne\DevFreelaOne\bin\Debug\net5.0\DevFreelaOne.Core.pdb

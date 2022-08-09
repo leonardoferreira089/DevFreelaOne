@@ -10,11 +10,11 @@ namespace DevFreelaOne.Application.Services.Interfaces
 {
     public interface IProjectService
     {
-        List<ProjectsViewModel> GetAllProjects();
+        List<ProjectsViewModel> GetAllProjects(string query);
         ProjectDetailsViewModel GetProjectById(int id);
-        int CreateProject(CreateProjectInputViewModel inputModel);
-        void UpdateProject(UpdateProjectInputViewModel inputModel);
-        void CreateComment(CreateCommentInputViewModel inputModel);
+        int CreateProject(CreateProjectInputModel inputModel);
+        void UpdateProject(UpdateProjectInputModel inputModel);
+        void CreateComment(CreateCommentInputModel inputModel);
         void DeleteProject(int id);
         void Start(int id);
         void Finish(int id);        

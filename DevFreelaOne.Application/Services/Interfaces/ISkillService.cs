@@ -10,6 +10,6 @@ namespace DevFreelaOne.Application.Services.Interfaces
 {
     public interface ISkillService
     {
-        List<SkillsViewModel> Skills();
+        List<SkillsViewModel> GetSkills();
     }
 }
